@@ -1,0 +1,4 @@
+-js test.js
+-main RunTests
+-cp ../lib/
+# -D rtti_support
